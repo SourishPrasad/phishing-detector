@@ -1,3 +1,6 @@
+cd ~/phishing-detector
+
+cat > README.md <<'EOF'
 # Phishing Detector
 
 A simple Python tool that detects potential phishing URLs.
