@@ -2,7 +2,6 @@ import streamlit as st
 from urllib.parse import urlparse
 import re
 
-# paste the same scoring logic from your improved script
 RISKY_TLDS = {".ru", ".cn", ".tk", ".pw", ".ml", ".cf", ".gq"}
 WHITELIST = {"github.com", "google.com", "youtube.com", "wikipedia.org"}
 
