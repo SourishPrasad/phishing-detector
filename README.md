@@ -1,7 +1,7 @@
 # 🛡️ Phishing Detector (Rule-Based)
 
-A lightweight **phishing URL detection tool** built using Python — runs locally in Termux (no data sent outside).  
-Designed for quick detection of suspicious links using rule-based scoring.
+A lightweight **phishing URL detection tool** built using Python.  
+Designed for quick detection of suspicious links using a rule-based weighted scoring system.
 
 ---
 
